@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":208:{a:2:{s:7:"defects";a:2:{s:7:"Warning";i:6;s:29:"CalculatorTest::testSubstract";i:4;}s:5:"times";a:3:{s:7:"Warning";d:0.011;s:23:"CalculatorTest::testAdd";d:0.01;s:29:"CalculatorTest::testSubstract";d:0.002;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":249:{a:2:{s:7:"defects";a:2:{s:7:"Warning";i:6;s:29:"CalculatorTest::testSubstract";i:4;}s:5:"times";a:4:{s:7:"Warning";d:0.011;s:23:"CalculatorTest::testAdd";d:0.011;s:29:"CalculatorTest::testSubstract";d:0.002;s:28:"CalculatorTest::testSubtract";d:0;}}}

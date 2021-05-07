@@ -12,3 +12,9 @@ PHP Unit testing. small sample PHP application.
 
 ![alt=OK](img/testdox.png)
 
+***
+\
+``./vendor/bin/phpunit --testdox``
+
+![alt=OK](img/subtract.png)
+
