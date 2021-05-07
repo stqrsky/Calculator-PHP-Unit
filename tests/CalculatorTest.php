@@ -10,10 +10,10 @@ class CalculatorTest extends \PHPUnit\Framework\TestCase {
     }
 
 
-    public function testSubstract() {
+    public function testSubtract() {
 
             $calculator = new App\Calculator;
-            $result = $calculator->substract(20,5);
+            $result = $calculator->subtract(20,5);
 
             $this->assertEquals(15,$result);
     }
