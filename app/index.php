@@ -13,6 +13,7 @@
 <body>
 <div class="container" style="margin-top: 50px">
 
+    <?php require_once "./controller.php";?>
     <!-- Calculator form -->
     <form method="post">
         <input name="number1" type="text" class="form-control inputField" />
